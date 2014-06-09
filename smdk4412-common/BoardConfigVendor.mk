@@ -14,3 +14,4 @@
 
 USE_CAMERA_STUB := false
 BOARD_USES_GENERIC_AUDIO := false
+
